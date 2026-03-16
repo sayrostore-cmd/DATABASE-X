@@ -1,7 +1,15 @@
-[{
+[
+  {
     "username": "dep",
     "password": "22",
     "expiredDate": "99999-09-99",
     "role": "owner",
     "lastSend": 1753500571927
-  }]
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "role": "member",
+    "expiredDate": "2026-04-15"
+  }
+]
