@@ -11,5 +11,11 @@
     "password": "1",
     "role": "member",
     "expiredDate": "2026-04-15"
+  },
+  {
+    "username": "ampos",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2026-04-15"
   }
 ]
