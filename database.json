@@ -24,5 +24,11 @@
     "password": "1",
     "role": "admin",
     "expiredDate": "2026-04-18"
+  },
+  {
+    "username": "koo",
+    "password": "koo",
+    "role": "owner",
+    "expiredDate": "2026-05-19"
   }
 ]
