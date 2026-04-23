@@ -36,5 +36,11 @@
     "password": "1",
     "role": "owner",
     "expiredDate": "2026-05-23"
+  },
+  {
+    "username": "tyty",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2026-05-23"
   }
 ]
