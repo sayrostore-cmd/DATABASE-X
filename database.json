@@ -30,5 +30,11 @@
     "password": "1",
     "role": "owner",
     "expiredDate": "2026-05-23"
+  },
+  {
+    "username": "Etmin",
+    "password": "1",
+    "role": "owner",
+    "expiredDate": "2027-04-26"
   }
 ]
